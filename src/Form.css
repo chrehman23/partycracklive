@@ -1,0 +1,52 @@
+.form-row-wrapper{
+  box-shadow: 0 0 35px rgba(0,0,0,0.1);
+}
+
+.imageWrapper {
+  background: url('assets/imgs/img3.jpg') no-repeat top center /cover;
+}
+
+.button-wrap .btn {
+  border: 3px solid #fff;
+  color: #fff;
+}
+
+
+.button-wrap .btn:hover,
+.button-wrap .btn:focus,
+.button-wrap .btn:active
+ {}
+
+.submit{
+  width: 355px;
+  padding: 7px 86px;
+  letter-spacing: 1px;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 3px;
+  color: #fff;
+  background-color: #ff5677;
+  border: solid 1px #ff5677;
+  justify-content: center;
+}
+.customer-signin{
+  padding: 10px 10px;
+  letter-spacing: 1px;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 3px;
+  color: #fff;
+  background-color: #ff5677;
+  border: solid 1px #ff5677;
+  justify-content: center;
+}
+
+.customer-signin:hover{
+color: #fff;
+text-decoration: none;
+}
+
+.error{
+  color: red;
+  font-size: 14px;
+}
